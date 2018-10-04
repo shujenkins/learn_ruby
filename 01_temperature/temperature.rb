@@ -9,4 +9,3 @@ def ctof(temp)
     # T(°F) = T(°C) × 9/5 + 32 
     temp = (temp * 1.8) + 32
 end
-
